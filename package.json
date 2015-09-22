@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/TehShrike/then-denodeify/issues"
   },
-  "homepage": "https://github.com/TehShrike/then-denodeify#readme"
+  "homepage": "https://github.com/TehShrike/then-denodeify#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "native-promise-only": "0.8.1",
+    "tape": "4.2.0"
+  }
 }
