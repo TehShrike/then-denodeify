@@ -1,11 +1,11 @@
-Copied from https://github.com/then/promise/blob/master/src/node-extensions.js but without anything else attached.
+Copied from https://github.com/then/promise/blob/master/src/node-extensions.js without anything else.
 
 [![Build Status](https://travis-ci.org/TehShrike/then-denodeify.svg)](https://travis-ci.org/TehShrike/then-denodeify)
 
 Converts a function that calls an error-first callback into a function that returns a promise.
 
 ```js
-var denodeify = require('denodeify')
+var denodeify = require('then-denodeify')
 
 var stat = denodeify(fs.stat)
 
