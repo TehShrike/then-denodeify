@@ -1,6 +1,6 @@
 {
   "name": "then-denodeify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![NPM](https://nodei.co/npm/then-denodeify.png)](https://nodei.co/npm/then-denodeify/)",
   "main": "index.js",
   "scripts": {
